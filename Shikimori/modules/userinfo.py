@@ -319,7 +319,7 @@ def info(update: Update, context: CallbackContext):
         text += "\n\nThis person is my 'Friend'."
         disaster_level_present = True
     elif user.id in DEMONS:
-        text += "\n\nThis person is my 'Servant'."
+        text += "\n\nThis person is my 'S GOD'."
         disaster_level_present = True
     elif user.id in TIGERS:
         text += "\n\nThis person is just a 'Peasant'."
